@@ -1,0 +1,26 @@
+{
+    "storeName": "Auth",
+    "storeAction": {
+        "type": "Login",
+        "freq": 5
+    },
+    "storeActionMabObject": {
+        "play": { 
+            "type": "PLAY", 
+            "freq": 5
+        },
+        "pause": { 
+            "type": "PAUSE", 
+            "freq": 3
+        },
+        "reset": { 
+            "type": "RESET", 
+            "freq": 1
+        },
+        "event": { 
+            "type": "EVENT", 
+            "freq": 2
+        }
+    },
+    "config": {}
+}
